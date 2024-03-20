@@ -10,9 +10,9 @@ The primary objective of this project is to build machine learning models that c
 # Methodology
 The project follows a systematic approach to analyze the loan dataset and build predictive models. The methodology consists of the following key steps:
 
-#Data Collection: The dataset containing information about loan applicants, including demographic details, financial attributes, and loan approval status, is collected and loaded into the analysis environment.
+# Data Collection: The dataset containing information about loan applicants, including demographic details, financial attributes, and loan approval status, is collected and loaded into the analysis environment.
 
-# Exploratory Data Analysis (EDA): Exploratory Data Analysis is performed to gain insights into the structure and characteristics of the dataset. Visualization techniques are used to explore relationships between variables, identify patterns, and detect outliers.
+# Exploratory Data Analysis (EDA):  Exploratory Data Analysis is performed to gain insights into the structure and characteristics of the dataset. Visualization techniques are used to explore relationships between variables, identify patterns, and detect outliers.
 
 # Data Preprocessing: Data preprocessing steps are applied to clean and prepare the dataset for model building. This includes handling missing values, encoding categorical variables, and scaling numerical features.
 
